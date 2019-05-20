@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Drawing;
 namespace GraphicTest3
-{ // ABC1
+{ // ABC123
     public class doitoado
     {
 
